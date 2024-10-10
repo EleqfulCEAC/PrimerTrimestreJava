@@ -4,6 +4,8 @@ public class MetodosString {
 
 	public static void main(String[] args) {
 
+		//toDo: crear todos los metodos con codigo propio
+
 		String txt = holaHola;
 		// txt.startsWith()
 		//txt.endsWith()
@@ -19,6 +21,8 @@ public class MetodosString {
 		// character.toLowerCase()
 		//Character.isWhitespace()
 		// character.isletter()
+		//character.isDigit()
+		//character.isWhitespace
 
 	}
 
